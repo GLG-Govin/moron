@@ -1,0 +1,29 @@
+
+.game-def {
+    color: rgb(255, 255, 255);
+    font-family:cursive;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: #FC0 1px 0 10px;
+    background-color: black;
+    border-radius: 60%;
+    margin: auto;
+    height: auto;
+    width: 300px;
+}
+
+.instructions {
+    color: rgb(255, 255, 255);
+    font-family:cursive;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: #FC0 1px 0 10px;
+    background-color: black;
+    border-radius: 60%;
+    border-style: outset;
+    height: auto;
+    width:400px;
+    margin: auto;  
+}
+
+
